@@ -1,0 +1,6 @@
+lightkurve       # Accessing NASA TESS/Kepler data
+astropy          # FITS file handling and celestial math
+scikit-learn     # Anomaly detection (Isolation Forests)
+pandas           # Data manipulation
+matplotlib       # Visualizing the "Otherworldly"
+torch            # Neural engine foundation
